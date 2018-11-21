@@ -1,1 +1,1 @@
-git clone https://github.com/TAEMJOKER/ARSLAN.git && cd TH3BOSSV24 && chmod +x install.sh &&./install.sh
+git clone https://github.com/TAEMJOKER/ARSLAN.git && cd ARSLAN && chmod +x install.sh &&./install.sh
